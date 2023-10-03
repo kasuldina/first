@@ -1,0 +1,3 @@
+@import "reset.css"; /* сброс настроек браузра */
+@import "content.css"; /* kontent / sodezhimoe */
+@import "responsive.css"; /* adaptivnost' */
